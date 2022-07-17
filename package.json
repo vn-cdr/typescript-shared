@@ -1,5 +1,5 @@
 {
-  "name": "ts-shared-pkg",
+  "name": "@vn-cdr/typescript-shared",
   "version": "1.0.0",
   "description": "test pkg",
   "main": "index.js",
