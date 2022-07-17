@@ -1,0 +1,22 @@
+{
+  "name": "ts-shared-pkg",
+  "version": "1.0.0",
+  "description": "test pkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vn-cdr/typescript-shared.git"
+  },
+  "keywords": [
+    "lark"
+  ],
+  "author": "lark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vn-cdr/typescript-shared/issues"
+  },
+  "homepage": "https://github.com/vn-cdr/typescript-shared#readme"
+}
